@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f3f3;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+hr {
+  background-color: rgb(246, 242, 242);
+  border-style: dotted none none;
+  border-color: rgb(219, 224, 210);
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h3{
+
+ color: rgb(249, 253, 254);
+}
+th,td{
+  padding:13px;
+}
+.copyright{
+  padding-top: 20px;
+}
